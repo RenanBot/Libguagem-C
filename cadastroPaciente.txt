@@ -1,0 +1,16 @@
+
+Nome: Jose
+CPF: 456
+Sexo: R
+Idade: 15
+Tem febre:  S
+Tem dor de cabeça:  m
+Tem secreção nasal ou espirros:  s
+Tem dor/irritação na garanta:  n
+Tem tosse seca:  n
+Tem dificuldade respiratória:  s
+Tem dores no corpo:  s
+Tem diarréia:  n
+Esteve em contato, nos ultimos 14 dias, com um diagnosticado com COVID-19:  n
+Esteve em locais com grande aglomeração:  s
+Pontuação total: 20
