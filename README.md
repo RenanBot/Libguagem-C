@@ -1,2 +1,2 @@
-# Libguagem-C
+# Linguagem-C
 Criação de um cadastro de paciênte para uma clinica
